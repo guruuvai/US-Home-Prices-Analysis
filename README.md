@@ -54,3 +54,8 @@ An Ordinary Least Squares (OLS) regression model was used to analyze the impact 
 - `scripts/`: Contains the Jupyter Notebook and Python scripts used for the analysis.
 
 
+## Conclusion
+This project provided valuable insights into the factors influencing US housing prices, enabling better decision-making in real estate and policy sectors. Feel free to explore the repository and contribute to the conversation!
+
+Contact
+For any questions or discussions, feel free to reach out to me on LinkedIn{https://www.linkedin.com/in/vaibhavtembhekar/}.
