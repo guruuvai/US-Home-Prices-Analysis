@@ -16,7 +16,11 @@ The datasets used in this analysis were obtained from the Federal Reserve Econom
 - GDP: Gross Domestic Product (GDP) of the United States
 - Population Growth: Population Growth in the United States
 - Housing Inventory: Total Housing Units in the United States
+- ![image](https://github.com/guruuvai/US-Home-Prices-Analysis/assets/67874401/e3c2bd8e-93fc-43a6-9808-ff82b5186b2e)
 
+![image](https://github.com/guruuvai/US-Home-Prices-Analysis/assets/67874401/cd5d9a29-9c70-458d-9935-5241267c2ef7)
+
+![image](https://github.com/guruuvai/US-Home-Prices-Analysis/assets/67874401/a0b33cdd-1239-43dd-81b5-9d3d1a15bd10)
 
 #### Model Statistics
 - **R-squared**: 0.973
